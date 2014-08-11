@@ -1,6 +1,6 @@
 {
   "name": "component-builder-minify",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "builder-minify",
   "main": "index.js",
   "repository": {
