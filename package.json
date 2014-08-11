@@ -1,7 +1,7 @@
 {
   "name": "component-builder-minify",
-  "version": "0.0.2",
-  "description": "builder-minify ==============",
+  "version": "0.0.3",
+  "description": "builder-minify",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/timaschew/builder-minify",
   "dependencies": {
-    "minify": "^0.7.1"
+    "minify": "git://github.com/ianstormtaylor/minify#0.1.1"
   }
 }
